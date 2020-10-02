@@ -11,10 +11,10 @@ __NodeJS__
 
 # Start
 
-```
-Step 1: Download the repository
 
-Step 2: Go to the repository's folder using Terminal for Linux or Command Prompt for Windows
+__Step 1: Download the repository
+
+Step 2: Go to the Command Prompt for Windows
 
 cd /Path/To/The Repository
 
@@ -24,8 +24,8 @@ npm install
 
 The final step: Run the bot
 
-node index.js
-```
+node index.js__
+
 
 ## About Us
 
