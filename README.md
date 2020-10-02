@@ -4,9 +4,9 @@ An open-source moderation, action bot written in JavaScript
 
 # Requirements
 
-```
-NodeJS
-```
+
+__NodeJS__
+
 *__Window: https://nodejs.org/en/download__*
 
 # Start
