@@ -14,6 +14,8 @@ __NodeJS__
 ```
 Step 1: Download the repository
 
+Step 1.2: Replace process.env.token to your Discord Bot Token
+
 Step 2: Go to the Command Prompt for Windows
 
 cd /Path/To/The Repository
