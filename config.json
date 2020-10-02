@@ -1,0 +1,9 @@
+{
+    "prefix": "m!",
+    "everyoneMention": true,
+    "hostedBy": true,
+    "defaultSettings": {
+        "prefix": null
+    },
+    "db": "mongodb+srv://Richter:RBTNRPm0gNoINJVG@cluster0.dz3s1.mongodb.net/Richter?retryWrites=true&w=majority"
+}
