@@ -34,11 +34,12 @@ node index.js
 
 * Owner:
 ```
-TwitchyJam, PMVN_Shieru
+TwitchyJam
+PMVN_Shieru
+Monsieur Andy
 ```
 
-* Support:
+* Contributor, Support:
 ```
 JustAPie
-Monsieur Andy
 ```
