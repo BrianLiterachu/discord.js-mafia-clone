@@ -34,7 +34,8 @@ About Us
 # * Owner:
 ```
 TwitchyJam (Christensen)
-[NTU] Shieru```
+[NTU] Shieru
+```
 
 
 # * Contributor, Support:
