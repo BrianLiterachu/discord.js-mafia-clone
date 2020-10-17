@@ -11,35 +11,34 @@ __NodeJS__
 
 # Start
 
-```
-Step 1: Download the repository
 
-Step 1.2: Replace process.env.token to your Discord Bot Token
+## Step 1: Download the repository
 
-Step 2: Go to the Command Prompt for Windows
+## Step 1.2: Replace process.env.token to your Discord Bot Token
 
-cd /Path/To/The Repository
+## Step 2: Go to the Command Prompt for Windows
 
-Step 3: Install all the dependencies
+## cd /Path/To/The Repository
 
-npm install
+## Step 3: Install all the dependencies
 
-The final step: Run the bot
+## npm install
 
-node index.js
-```
+## The final step: Run the bot
+
+## node index.js
 
 ## About Us
 
 
 * Owner:
 ```
-TwitchyJam
-PMVN_Shieru
-Monsieur Andy
+TwitchyJam (Christensen)
+[NTU] Shieru
 ```
 
 * Contributor, Support:
 ```
 JustAPie
+Monsieur Andy (Ishigami Kaito)
 ```
