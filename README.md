@@ -27,17 +27,17 @@ npm install
 The final step: Run the bot
 
 node index.js
-```
-# About Us
 
+About Us
+```
 
 # * Owner:
-
-# TwitchyJam (Christensen)
-# [NTU] Shieru
+```
+TwitchyJam (Christensen)
+[NTU] Shieru```
 
 
 # * Contributor, Support:
 
-# JustAPie
-# Monsieur Andy (Ishigami Kaito)
+```# JustAPie
+# Monsieur Andy (Ishigami Kaito)```
